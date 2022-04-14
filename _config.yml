@@ -1,1 +1,18 @@
 theme: jekyll-theme-minimal
+title: Mags Allen
+domain: magsallen.github.io 
+repository: magsallen/magsallen.github.io
+future: true
+permalink: /:title
+plugins:
+- jekyll-seo-tag
+- jekyll-coffeescript
+- jekyll-commonmark-ghpages
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-paginate
+- jekyll-relative-links
+- jekyll-optional-front-matter
+- jekyll-readme-index
+- jekyll-default-layout
+- jekyll-titles-from-headings
