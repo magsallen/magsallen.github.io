@@ -10,9 +10,9 @@ permalink: /cv
 
 ---
 ## <a name="profile">Profile</a>
-A focused and collaborative fullstack engineer with excellent communication, problem-solving skills and leadership skills. 
+A focused and collaborative fullstack engineer with excellent communication, problem-solving and leadership skills. 
 
-With 5+ years professional experience spanning CSS to CDNs I have a broad skillset that allows me to understand and resolve complex challenges and to deliver on work that I am deeply proud of. Alongside technical best practice I advocate for culture, accessibility, documentation and mentoring in my teams. 
+With 6 years professional experience spanning CSS to CDNs I have a broad skillset that allows me to understand and resolve complex challenges and to deliver on work that I am deeply proud of. Alongside technical best practice, I advocate for culture, accessibility, documentation and mentoring in my teams. 
 
 Beyond work, I am a boxer, a reader, a British Sign Language teacher and an active member of my local Women Who Code group. 
 
@@ -24,7 +24,7 @@ Languages:
 
 Tooling:
 - Proficient: Webpack, Babel, Express.js, GraphQL, Heroku, Circle CI 
-- Also used: Splunk, Figma, AWS Lambda, S3, IAM
+- Also used: Figma, Splunk, AWS Lambda, S3, IAM
 
 Databases: 
 - MongoDB, PostgreSQL, Neo4j, Redis
@@ -54,7 +54,7 @@ Testing:
 - Defined a new front-end strategy 
 
 #### Interview Refresh
-- Designed and rolled out a new tech test and interviews process to reduce bias in hiring while improving the experience for both candidates and interviewers
+- Designed and rolled out a new tech test and interview process to reduce bias in hiring while improving the experience for both candidates and interviewers
 
 #### Reliability Engineering
 - Built UI components for a service monitoring technical assets and serving out-of-hours support
